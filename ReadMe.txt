@@ -5,6 +5,7 @@ TODO:
 * Limits for new game session.
 * Package organization.
 * Registration and login system.
+* Life cyrcle a client application.
 * ???????
 * PROFIT!
 
