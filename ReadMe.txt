@@ -1,13 +1,13 @@
-"Points" game design document (3 laboratory work on distributed systems).
+Дизайн-документ для игры "Точки" (3 лабароторная работа по распределённым системам).
 
 TODO:
-* Game rules.
-* Limits for new game session.
-* Package organization.
-* Registration and login system.
-* Life cyrcle a client application.
+* Правила.
+* Огрничения и настройки игровой сессии.
+* Организация пакетов.
+* Регистрации/логин пользователей.
+* Жизненный цикл клиетского приложения.
 * ???????
 * PROFIT!
 
-Finishing:
-* Nothing
+Завершённые пункты:
+* Отсутствуют.
